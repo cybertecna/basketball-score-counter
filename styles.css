@@ -42,8 +42,7 @@ button {
     margin-bottom: 60px
 }
 
-button:hover,
-button:focus {
+button:hover {
     color: #1B244A;
     background: #9AABD8
 
